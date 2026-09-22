@@ -22,6 +22,7 @@ Ce projet est un compteur interactif qui permet d'incrementer, décrémenter et 
 - Bouton + pour augmenter le compteur
 - Bouton - pour diminuer le compteur
 - Bouton reset pour remettre à zéro
+- Mode sombre (dark mode)
 
 ## Contribuer
 
@@ -46,6 +47,7 @@ Pour contribuer à ce projet :
    git push origin ma-branche
    ```
 6. Ouvrir une Pull Request depuis GitHub vers le repo original
+
 
 ## Auteur
 
